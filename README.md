@@ -1,2 +1,2 @@
 # Website--css-
-simple we development using css 
+simple web development using css 
